@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/ndely",
+  "port": "3900",
+  "requiresAuth": true
+}
